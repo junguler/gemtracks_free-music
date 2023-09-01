@@ -18,4 +18,4 @@ for i in *.txt ; do mkdir $(echo $i | sed 's/.txt//g') ; cat $i | grep -v "#" | 
 or if you prefer gui download programs just copy the content of any of the text files and paste them in the batch section and start downloading
 
 # script?
-yes, (here)[https://github.com/junguler/gemtracks_free-music/blob/main/gemtracks.sh]
+yes, [here](https://github.com/junguler/gemtracks_free-music/blob/main/gemtracks.sh)
