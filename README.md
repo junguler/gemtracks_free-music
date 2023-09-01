@@ -15,7 +15,7 @@ extract the [to_download.zip](https://github.com/junguler/gemtracks_free-music/r
 for i in *.txt ; do mkdir $(echo $i | sed 's/.txt//g') ; cat $i | aria2c -i - -j 2 -d $(echo $i | sed 's/.txt//g') ; done
 ```
 
-or if you prefer gui download programs just copy the content of any of the text files and paste them in the batch section and start downloading
+or if you prefer gui download managers just copy the content of any of the text files and paste them in the batch section and start downloading
 
 # script?
 yes, [here](https://github.com/junguler/gemtracks_free-music/blob/main/gemtracks.sh)
