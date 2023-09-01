@@ -6,7 +6,7 @@ yes, see [here](https://www.gemtracks.com/free-music/)
 - Must credit and link back to Gemtracks.com
 
 # how to listen?
-drag and drop any of the `.m3u` files to vlc or mpv
+drag and drop any of the `.m3u` files to vlc or mpv, or make any of the two players the default player for `m3u` files in your os
 
 # how to download?
 extract the [to_download.zip](https://github.com/junguler/gemtracks_free-music/raw/main/to_download.zip) file, cd into the directory and do this (you'll need aria2)
